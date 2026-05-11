@@ -1,0 +1,5 @@
+interface Electrico {
+
+    void cargarBateria();
+}
+
